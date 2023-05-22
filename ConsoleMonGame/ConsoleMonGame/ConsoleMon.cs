@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace ConsoleMonGame
 {
@@ -11,11 +12,14 @@ namespace ConsoleMonGame
         internal int health;
         internal int energy;
         internal string name;
+        internal Element weakness;
+        private List<Skill> skills;
 
         //skill list
-        private List<Skill> skills = new List<Skill>;
 
-        internal void TakeDamage(int damage)
+       
+
+            internal void TakeDamage(int damage)
         {
             health -= damage;
         }

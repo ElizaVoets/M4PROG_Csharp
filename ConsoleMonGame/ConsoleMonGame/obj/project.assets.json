@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eliza\\OneDrive - Mediacollege Amsterdam\\Bewijzenmap\\jaar1\\periode1.3\\M3FLEX\\M3FLEX_2022csharp1\\les 3\\ConsoleMonGame\\ConsoleMonGame\\ConsoleMonGame.csproj",
+      "projectUniqueName": "C:\\Users\\Eliza\\OneDrive - Mediacollege Amsterdam\\Bewijzenmap\\jaar1\\periode1.4\\M4PROG\\M4PROG_Csharp\\ConsoleMonGame\\ConsoleMonGame\\ConsoleMonGame.csproj",
       "projectName": "ConsoleMonGame",
-      "projectPath": "C:\\Users\\Eliza\\OneDrive - Mediacollege Amsterdam\\Bewijzenmap\\jaar1\\periode1.3\\M3FLEX\\M3FLEX_2022csharp1\\les 3\\ConsoleMonGame\\ConsoleMonGame\\ConsoleMonGame.csproj",
+      "projectPath": "C:\\Users\\Eliza\\OneDrive - Mediacollege Amsterdam\\Bewijzenmap\\jaar1\\periode1.4\\M4PROG\\M4PROG_Csharp\\ConsoleMonGame\\ConsoleMonGame\\ConsoleMonGame.csproj",
       "packagesPath": "C:\\Users\\Eliza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eliza\\OneDrive - Mediacollege Amsterdam\\Bewijzenmap\\jaar1\\periode1.3\\M3FLEX\\M3FLEX_2022csharp1\\les 3\\ConsoleMonGame\\ConsoleMonGame\\obj\\",
+      "outputPath": "C:\\Users\\Eliza\\OneDrive - Mediacollege Amsterdam\\Bewijzenmap\\jaar1\\periode1.4\\M4PROG\\M4PROG_Csharp\\ConsoleMonGame\\ConsoleMonGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

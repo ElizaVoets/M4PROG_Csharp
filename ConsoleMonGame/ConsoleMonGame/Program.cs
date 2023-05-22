@@ -8,6 +8,7 @@
         {
             TestConsoleMonFunctions();
             TestSkillFunctions();
+
         }
         static void TestConsoleMonFunctions()
         {
@@ -34,11 +35,11 @@
             };
             skill.UseOn(targetMon, casterMon);
 
-            Console.WriteLine(targetMon.health == -100);
+            Console.WriteLine(targetMon.health == -150);
 
             Console.WriteLine(casterMon.energy == -20);
-            Console.WriteLine(" ");
-
         }
     }
-}
+
+        }
+    

@@ -1,0 +1,15 @@
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\ListOpdracht\ListOpdracht\bin\Debug\net7.0\ListOpdracht.exe
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\ListOpdracht\ListOpdracht\bin\Debug\net7.0\ListOpdracht.deps.json
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\ListOpdracht\ListOpdracht\bin\Debug\net7.0\ListOpdracht.runtimeconfig.json
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\ListOpdracht\ListOpdracht\bin\Debug\net7.0\ListOpdracht.dll
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\ListOpdracht\ListOpdracht\bin\Debug\net7.0\ListOpdracht.pdb
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\ListOpdracht\ListOpdracht\obj\Debug\net7.0\ListOpdracht.csproj.AssemblyReference.cache
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\ListOpdracht\ListOpdracht\obj\Debug\net7.0\ListOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\ListOpdracht\ListOpdracht\obj\Debug\net7.0\ListOpdracht.AssemblyInfoInputs.cache
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\ListOpdracht\ListOpdracht\obj\Debug\net7.0\ListOpdracht.AssemblyInfo.cs
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\ListOpdracht\ListOpdracht\obj\Debug\net7.0\ListOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\ListOpdracht\ListOpdracht\obj\Debug\net7.0\ListOpdracht.dll
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\ListOpdracht\ListOpdracht\obj\Debug\net7.0\refint\ListOpdracht.dll
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\ListOpdracht\ListOpdracht\obj\Debug\net7.0\ListOpdracht.pdb
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\ListOpdracht\ListOpdracht\obj\Debug\net7.0\ListOpdracht.genruntimeconfig.cache
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\ListOpdracht\ListOpdracht\obj\Debug\net7.0\ref\ListOpdracht.dll

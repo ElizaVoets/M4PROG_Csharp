@@ -1,0 +1,15 @@
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\EnmuOpdracht\EnmuOpdracht\EnmuOpdracht\bin\Debug\net7.0\EnmuOpdracht.exe
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\EnmuOpdracht\EnmuOpdracht\EnmuOpdracht\bin\Debug\net7.0\EnmuOpdracht.deps.json
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\EnmuOpdracht\EnmuOpdracht\EnmuOpdracht\bin\Debug\net7.0\EnmuOpdracht.runtimeconfig.json
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\EnmuOpdracht\EnmuOpdracht\EnmuOpdracht\bin\Debug\net7.0\EnmuOpdracht.dll
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\EnmuOpdracht\EnmuOpdracht\EnmuOpdracht\bin\Debug\net7.0\EnmuOpdracht.pdb
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\EnmuOpdracht\EnmuOpdracht\EnmuOpdracht\obj\Debug\net7.0\EnmuOpdracht.csproj.AssemblyReference.cache
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\EnmuOpdracht\EnmuOpdracht\EnmuOpdracht\obj\Debug\net7.0\EnmuOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\EnmuOpdracht\EnmuOpdracht\EnmuOpdracht\obj\Debug\net7.0\EnmuOpdracht.AssemblyInfoInputs.cache
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\EnmuOpdracht\EnmuOpdracht\EnmuOpdracht\obj\Debug\net7.0\EnmuOpdracht.AssemblyInfo.cs
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\EnmuOpdracht\EnmuOpdracht\EnmuOpdracht\obj\Debug\net7.0\EnmuOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\EnmuOpdracht\EnmuOpdracht\EnmuOpdracht\obj\Debug\net7.0\EnmuOpdracht.dll
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\EnmuOpdracht\EnmuOpdracht\EnmuOpdracht\obj\Debug\net7.0\refint\EnmuOpdracht.dll
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\EnmuOpdracht\EnmuOpdracht\EnmuOpdracht\obj\Debug\net7.0\EnmuOpdracht.pdb
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\EnmuOpdracht\EnmuOpdracht\EnmuOpdracht\obj\Debug\net7.0\EnmuOpdracht.genruntimeconfig.cache
+C:\Users\safoa\OneDrive\Desktop\Periode4\Prog\2023P4ProgCs2\EnmuOpdracht\EnmuOpdracht\EnmuOpdracht\obj\Debug\net7.0\ref\EnmuOpdracht.dll

@@ -8,9 +8,9 @@ namespace EnumOpdracht
 {
     internal enum Colours
     {
-        pink,
+        blue,
         green,
         purple,
-        blue
+        pink
     }
 }

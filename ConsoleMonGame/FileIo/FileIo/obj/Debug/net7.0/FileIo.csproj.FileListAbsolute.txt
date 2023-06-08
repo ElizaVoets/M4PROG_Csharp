@@ -1,0 +1,16 @@
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileIo\FileIo\bin\Debug\net7.0\leesdezefile.txt.txt
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileIo\FileIo\bin\Debug\net7.0\FileIo.exe
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileIo\FileIo\bin\Debug\net7.0\FileIo.deps.json
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileIo\FileIo\bin\Debug\net7.0\FileIo.runtimeconfig.json
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileIo\FileIo\bin\Debug\net7.0\FileIo.dll
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileIo\FileIo\bin\Debug\net7.0\FileIo.pdb
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileIo\FileIo\obj\Debug\net7.0\FileIo.csproj.AssemblyReference.cache
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileIo\FileIo\obj\Debug\net7.0\FileIo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileIo\FileIo\obj\Debug\net7.0\FileIo.AssemblyInfoInputs.cache
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileIo\FileIo\obj\Debug\net7.0\FileIo.AssemblyInfo.cs
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileIo\FileIo\obj\Debug\net7.0\FileIo.csproj.CoreCompileInputs.cache
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileIo\FileIo\obj\Debug\net7.0\FileIo.dll
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileIo\FileIo\obj\Debug\net7.0\refint\FileIo.dll
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileIo\FileIo\obj\Debug\net7.0\FileIo.pdb
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileIo\FileIo\obj\Debug\net7.0\FileIo.genruntimeconfig.cache
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileIo\FileIo\obj\Debug\net7.0\ref\FileIo.dll

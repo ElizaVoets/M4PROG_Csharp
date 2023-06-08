@@ -1,0 +1,16 @@
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\stringSplit.txt
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.exe
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.deps.json
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.runtimeconfig.json
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.dll
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.pdb
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.csproj.AssemblyReference.cache
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.AssemblyInfoInputs.cache
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.AssemblyInfo.cs
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.dll
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\refint\SplitOpdracht.dll
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.pdb
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.genruntimeconfig.cache
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\ref\SplitOpdracht.dll

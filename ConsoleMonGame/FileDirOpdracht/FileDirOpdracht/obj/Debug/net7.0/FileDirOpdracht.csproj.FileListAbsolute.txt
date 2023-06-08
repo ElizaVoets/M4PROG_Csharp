@@ -1,0 +1,15 @@
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\bin\Debug\net7.0\FileDirOpdracht.exe
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\bin\Debug\net7.0\FileDirOpdracht.deps.json
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\bin\Debug\net7.0\FileDirOpdracht.runtimeconfig.json
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\bin\Debug\net7.0\FileDirOpdracht.dll
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\bin\Debug\net7.0\FileDirOpdracht.pdb
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.csproj.AssemblyReference.cache
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.AssemblyInfoInputs.cache
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.AssemblyInfo.cs
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.dll
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\refint\FileDirOpdracht.dll
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.pdb
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.genruntimeconfig.cache
+C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\FileDirOpdracht\FileDirOpdracht\obj\Debug\net7.0\ref\FileDirOpdracht.dll

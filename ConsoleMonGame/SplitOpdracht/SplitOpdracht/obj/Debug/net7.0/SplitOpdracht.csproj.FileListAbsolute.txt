@@ -14,3 +14,19 @@ C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\SplitOpdracht\Spl
 C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.pdb
 C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.genruntimeconfig.cache
 C:\Users\safoa\OneDrive\Desktop\ma\Periode4\Prog\2023P4ProgCs2\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\ref\SplitOpdracht.dll
+C:\Users\Eliza\OneDrive - Mediacollege Amsterdam\Bewijzenmap\jaar1\periode1.4\M4PROG\M4PROG_Csharp\ConsoleMonGame\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\stringSplit.txt
+C:\Users\Eliza\OneDrive - Mediacollege Amsterdam\Bewijzenmap\jaar1\periode1.4\M4PROG\M4PROG_Csharp\ConsoleMonGame\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.exe
+C:\Users\Eliza\OneDrive - Mediacollege Amsterdam\Bewijzenmap\jaar1\periode1.4\M4PROG\M4PROG_Csharp\ConsoleMonGame\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.deps.json
+C:\Users\Eliza\OneDrive - Mediacollege Amsterdam\Bewijzenmap\jaar1\periode1.4\M4PROG\M4PROG_Csharp\ConsoleMonGame\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.runtimeconfig.json
+C:\Users\Eliza\OneDrive - Mediacollege Amsterdam\Bewijzenmap\jaar1\periode1.4\M4PROG\M4PROG_Csharp\ConsoleMonGame\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.dll
+C:\Users\Eliza\OneDrive - Mediacollege Amsterdam\Bewijzenmap\jaar1\periode1.4\M4PROG\M4PROG_Csharp\ConsoleMonGame\SplitOpdracht\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.pdb
+C:\Users\Eliza\OneDrive - Mediacollege Amsterdam\Bewijzenmap\jaar1\periode1.4\M4PROG\M4PROG_Csharp\ConsoleMonGame\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.csproj.AssemblyReference.cache
+C:\Users\Eliza\OneDrive - Mediacollege Amsterdam\Bewijzenmap\jaar1\periode1.4\M4PROG\M4PROG_Csharp\ConsoleMonGame\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eliza\OneDrive - Mediacollege Amsterdam\Bewijzenmap\jaar1\periode1.4\M4PROG\M4PROG_Csharp\ConsoleMonGame\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.AssemblyInfoInputs.cache
+C:\Users\Eliza\OneDrive - Mediacollege Amsterdam\Bewijzenmap\jaar1\periode1.4\M4PROG\M4PROG_Csharp\ConsoleMonGame\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.AssemblyInfo.cs
+C:\Users\Eliza\OneDrive - Mediacollege Amsterdam\Bewijzenmap\jaar1\periode1.4\M4PROG\M4PROG_Csharp\ConsoleMonGame\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\Eliza\OneDrive - Mediacollege Amsterdam\Bewijzenmap\jaar1\periode1.4\M4PROG\M4PROG_Csharp\ConsoleMonGame\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.dll
+C:\Users\Eliza\OneDrive - Mediacollege Amsterdam\Bewijzenmap\jaar1\periode1.4\M4PROG\M4PROG_Csharp\ConsoleMonGame\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\refint\SplitOpdracht.dll
+C:\Users\Eliza\OneDrive - Mediacollege Amsterdam\Bewijzenmap\jaar1\periode1.4\M4PROG\M4PROG_Csharp\ConsoleMonGame\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.pdb
+C:\Users\Eliza\OneDrive - Mediacollege Amsterdam\Bewijzenmap\jaar1\periode1.4\M4PROG\M4PROG_Csharp\ConsoleMonGame\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.genruntimeconfig.cache
+C:\Users\Eliza\OneDrive - Mediacollege Amsterdam\Bewijzenmap\jaar1\periode1.4\M4PROG\M4PROG_Csharp\ConsoleMonGame\SplitOpdracht\SplitOpdracht\obj\Debug\net7.0\ref\SplitOpdracht.dll

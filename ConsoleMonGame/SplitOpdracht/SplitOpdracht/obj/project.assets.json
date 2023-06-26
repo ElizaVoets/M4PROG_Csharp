@@ -8,19 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\safoa\\.nuget\\packages\\": {}
+    "C:\\Users\\Eliza\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\safoa\\OneDrive\\Desktop\\ma\\Periode4\\Prog\\2023P4ProgCs2\\SplitOpdracht\\SplitOpdracht\\SplitOpdracht.csproj",
+      "projectUniqueName": "C:\\Users\\Eliza\\OneDrive - Mediacollege Amsterdam\\Bewijzenmap\\jaar1\\periode1.4\\M4PROG\\M4PROG_Csharp\\ConsoleMonGame\\SplitOpdracht\\SplitOpdracht\\SplitOpdracht.csproj",
       "projectName": "SplitOpdracht",
-      "projectPath": "C:\\Users\\safoa\\OneDrive\\Desktop\\ma\\Periode4\\Prog\\2023P4ProgCs2\\SplitOpdracht\\SplitOpdracht\\SplitOpdracht.csproj",
-      "packagesPath": "C:\\Users\\safoa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\safoa\\OneDrive\\Desktop\\ma\\Periode4\\Prog\\2023P4ProgCs2\\SplitOpdracht\\SplitOpdracht\\obj\\",
+      "projectPath": "C:\\Users\\Eliza\\OneDrive - Mediacollege Amsterdam\\Bewijzenmap\\jaar1\\periode1.4\\M4PROG\\M4PROG_Csharp\\ConsoleMonGame\\SplitOpdracht\\SplitOpdracht\\SplitOpdracht.csproj",
+      "packagesPath": "C:\\Users\\Eliza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Eliza\\OneDrive - Mediacollege Amsterdam\\Bewijzenmap\\jaar1\\periode1.4\\M4PROG\\M4PROG_Csharp\\ConsoleMonGame\\SplitOpdracht\\SplitOpdracht\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\safoa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Eliza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

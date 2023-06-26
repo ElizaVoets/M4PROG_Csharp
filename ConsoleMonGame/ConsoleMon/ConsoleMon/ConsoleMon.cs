@@ -11,20 +11,15 @@ namespace Program
     {
         
         
-            public int health;
-            public int energy;
-            public string name;
-            internal Elements weakness;
-            private List<Skill> skills;
+        public int health { get; set; }
+        public int energy { get; set; }
+        public string name { get; set; }
+        internal Elements weakness { get; set; }
 
-            
+        public List<Skill> skills { get; set; }
 
-        public ConsoleMon()
-        {
 
-        }
-
-        internal ConsoleMon(int health, int energy, string name, Elements weakness)
+        public ConsoleMon(int health, int energy, string name, Elements weakness)
         {
             this.health = health;
             this.energy = energy;
@@ -32,14 +27,20 @@ namespace Program
             this.weakness = weakness;
         }
 
-        internal void TakeDamage(int damage)
-            {
-                health -= damage;
+        public ConsoleMon()
+        {
 
-            }
-            internal void DepleteEnergy(int energy)
-            {
-                this.energy -= energy;
-            }
         }
+
+        public void TakeDamage(int damage)
+        {
+
+            health -= damage;
+
+        }
+        public void DepleteEnergy(int energy)
+        {
+            this.energy -= energy;
+        }
+    }
 }
